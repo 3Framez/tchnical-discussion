@@ -13,4 +13,4 @@ This is my gist: [my_code](https://gist.github.com/3Framez/9134d11547a45cab5eb82
 
 
 ### Colab Example
-This is my [colab_notebook]
+This is my [colab_notebook](https://github.com/3Framez/technical-discussion/blob/main/technical_docs.ipynb)
